@@ -1,75 +1,69 @@
-# Lucas Ricardo Souza Guimarães
+<div align="center">
 
-📍 Goiânia, GO • Desenvolvedor PHP (Laravel) / Full Stack  
-📧 lucaslrsg@gmail.com • LinkedIn: https://www.linkedin.com/in/SEU_USUARIO • GitHub: https://github.com/SEU_USUARIO
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=820&lines=Lucas+%7C+Dev+PHP+%26+Web;Laravel+%7C+Node+%7C+TypeScript+%7C+React;APIs+%7C+Dashboards+%7C+Banco+de+Dados" alt="Typing SVG" />
 
----
+<br/>
 
-## Sobre mim
-Sou desenvolvedor com experiência prática em **PHP/Laravel**, **Java/Spring Boot**, **JavaScript** e **TypeScript**, com foco em **integrações via API**, **código limpo**, organização de projetos e entregas consistentes. Inglês intermediário.
+<!-- Contatos (troque pelos seus links reais) -->
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-## Stack e ferramentas
-**Back-end:** PHP (Laravel), Java (Spring Boot), Node.js (TypeScript)  
-**Front-end:** JavaScript, React.js, jQuery, Bootstrap, HTML5, CSS3  
-**Dados:** MySQL, PostgreSQL, Redis  
-**Ferramentas:** Git/GitHub, Docker, XAMPP, Composer, Maven, IntelliJ IDEA, VS Code  
-**Extras:** Dashboards dinâmicos em JavaScript
+</div>
 
 ---
 
-## Experiência
-### Grupo VIAMAIS — Goiânia, GO
-**Desenvolvedor PHP (efetivado a partir de out/2025) | Estagiário de Desenvolvimento (abr/2025 – atual)**
-- Desenvolvimento e manutenção de sistemas internos com **PHP**, **JavaScript (padrão e jQuery)**, **Bootstrap** e **Redis**.
-- Integração com **APIs REST** e consumo de serviços externos, com foco em **otimização e performance**.
-- Reestruturação de regras de negócio para **services/models**, aplicando **MVC** e boas práticas de separação de responsabilidades.
-- Uso de **XAMPP** e **Docker**; criação de projetos em **Node + TypeScript**.
-- Atuação com **Git/GitHub** e participação em **pull requests**.
-
-### Mundial Refrigeração — Goiânia, GO
-**Estagiário de TI (ago/2023 – ago/2024)**
-- Suporte técnico a usuários e sistema interno; gestão de infraestrutura de rede local.
-- Administração de banco **Oracle** e criação de telas personalizadas.
-- Desenvolvimento de pequenas interfaces web responsivas com **HTML5**, **CSS3** e **JavaScript**.
+## Stack que eu uso no dia a dia
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,react,html,css,bootstrap,mysql,postgres,redis,docker,git,github,vscode" />
+</div>
 
 ---
 
-## Formação
-**Análise e Desenvolvimento de Sistemas (ADS)** — PUC Goiás (PUC-GO)  
-**fev/2023 – fev/2026**
+## GitHub em números (dinâmico)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucaslrsg&show_icons=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslrsg&layout=compact" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lucaslrsg" />
+
+</div>
 
 ---
 
-## Projetos em destaque
-### MoneyControll (em andamento)
-Sistema de controle financeiro pessoal para gerenciamento de **despesas**, **receitas** e **metas**.  
-**Stack:** PHP (Laravel) • Blade • Bootstrap  
-- Interface responsiva e componentes reutilizáveis
-- Estrutura pensada para evolução contínua
-
-Repositório: https://github.com/SEU_USUARIO/moneycontroll
+## Atividade (gráfico)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucaslrsg" />
 
 ---
 
-## Cursos e certificações
-- Desenvolvimento Web Full Stack — OneBitCode (HTML5, CSS3, JavaScript)
-- PHP Moderno — Curso em Vídeo (abr/2025)
-- NLW: Desenvolvimento Web — Rocketseat (mai/2022)
-- Algoritmos e Lógica de Programação — Udemy (Nelio Alves) (fev/2022)
+## Conquistas (opcional)
+<img src="https://github-profile-trophy.vercel.app/?username=Lucaslrsg&margin-w=10&margin-h=10&no-bg=true" />
 
 ---
 
-## Soft skills
-- Proatividade e iniciativa
-- Comunicação clara e eficaz
-- Trabalho em equipe e colaboração
-- Aprendizado rápido e adaptabilidade
-- Foco em resultados e resolução de problemas
+## Repos que valem ver
+- 🔧 **MoneyControll** — dashboard/controle financeiro (Laravel)
+- 🧠 **MotorMind** — gestão de oficina (Spring Boot + React + PostgreSQL)
+
+> Dica: fixe seus melhores repositórios no perfil (Customize your pins).
 
 ---
 
-## GitHub (opcional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+### O que eu curto construir
+- APIs REST bem organizadas
+- Dashboards com métricas e performance
+- Modelagem/SQL (MySQL/PostgreSQL)
+- Cache e otimização (Redis)
+
+<!-- Contador de visitas (opcional) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lucaslrsg&style=flat" />
+</div>
