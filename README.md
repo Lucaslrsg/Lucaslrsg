@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-
+  
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslrsg&layout=compact" />
 
 </div>
@@ -33,12 +33,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Lucaslrsg" />
 
 </div>
-
-## Repos que valem ver
-- 🔧 **MoneyControll** — dashboard/controle financeiro (Laravel)
-- 🧠 **MotorMind** — gestão de oficina (Spring Boot + React + PostgreSQL)
-
----
 
 ### O que eu curto construir
 - APIs REST bem organizadas
