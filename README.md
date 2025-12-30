@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucaslrsg&show_icons=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucaslrsg&show_icons=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslrsg&layout=compact" />
 
 </div>
