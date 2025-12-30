@@ -24,7 +24,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucaslrsg&show_icons=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslrsg&layout=compact" />
 
 </div>
@@ -35,23 +34,9 @@
 
 </div>
 
----
-
-## Atividade (gráfico)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucaslrsg" />
-
----
-
-## Conquistas (opcional)
-<img src="https://github-profile-trophy.vercel.app/?username=Lucaslrsg&margin-w=10&margin-h=10&no-bg=true" />
-
----
-
 ## Repos que valem ver
 - 🔧 **MoneyControll** — dashboard/controle financeiro (Laravel)
 - 🧠 **MotorMind** — gestão de oficina (Spring Boot + React + PostgreSQL)
-
-> Dica: fixe seus melhores repositórios no perfil (Customize your pins).
 
 ---
 
