@@ -17,7 +17,7 @@
 
 ## Stack que eu uso no dia a dia
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,js,ts,nodejs,react,html,css,bootstrap,mysql,postgres,redis,docker,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,js,ts,nodejs,react,html,css,mysql,postgres,redis,docker,git,vscode" />
 </div>
 
 ---
